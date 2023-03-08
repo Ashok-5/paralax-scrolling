@@ -1,46 +1,18 @@
 #Celestiq{
-    background-image: url("Cadillac_Celestiq.jpg");
+    background: url("Cadillac_Celestiq.jpg") no-repeat center;
     background-size:cover;
-    background-repeat: no-repeat;
     background-attachment: fixed;
-    
-    /* height: 100%;
-    width: 100%; */
-
 }
 #CT4-V_2023{
-    background-image: url("CT4_V_blackwing_2023.jpg"); 
-    background-size: cover; 
-    background-repeat: no-repeat;
-     background-attachment:fixed;
-     /* height: 100%;
-     width: 100%; */
-    
+    background: url("CT4_V_blackwing_2023.jpg") no-repeat center; 
+    background-size: cover;
+    background-attachment:fixed; 
 }
 #XT6_2022{
-    background-image: url("Cadilac_XT6_2022.jfif");
+    background: url("Cadilac_XT6_2022.jfif") no-repeat center;
     background-size: cover;
-    background-repeat: no-repeat;
     background-attachment: fixed;
-    /* height: 100%;
-    width: 100%; */
 }
-
-/* .Celestiq{
-
-    background-color: rgb(97, 89, 89);
-    padding: 15%;
-}
-.CT4-V_2023{
-
-    background-color: rgb(94, 89, 89);
-    padding: 15%;
-}
-.XT6_2022{
-
-    background-color: rgb(94, 89, 89);
-    padding: 15%;
-} */
 span.head_1,.head_2,.head_3 {
      
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
